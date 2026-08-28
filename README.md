@@ -9,6 +9,6 @@ Este repositório serve para auxiliar as atividades da disciplina **ELT576 - Pro
 
 #### Conteúdo por Semana
 - **Semana 1:** Sinais e sistemas
-- **Semana 2:** Convolução
-- **Semana 3:** Análise espectral
-- **Semana 4:** Filtragem
+- **Semana 2:** Análise espectral
+- **Semana 3:** Filtragem digital
+- **Semana 4:** Séries temporais
