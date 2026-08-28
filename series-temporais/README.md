@@ -9,7 +9,7 @@
 Esta pasta contém o banco de dados para o problema da Atividade Prática de séries temporais. Trata-se de uma adaptação do seguinte problema:
 
 **Dataset:** UCI Individual Household Electric Power Consumption  
-**Variável principal:** `Global_active_power` (reamostrado em horas) 
+**Variável principal:** `Global_active_power` (reamostrado em horas)  
 **Problema:** prever o consumo médio da próxima hora a partir do histórico disponível.  
 
 
